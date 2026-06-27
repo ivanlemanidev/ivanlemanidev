@@ -57,7 +57,7 @@ I enjoy building real-world projects and improving my skills in software enginee
 
 - Email: ivanlemani230@gmail.com  
 - LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ivan-lemani-6032aa41a?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-- GitHub: https://github.com/ivanlemanidev
+- GitHub: https://github.com/pierre734
 
 ---
 
