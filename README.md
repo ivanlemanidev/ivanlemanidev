@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Pierre Blaireau 👋
 
-<!--
-**ivanlemanidev/ivanlemanidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Full Stack Developer learner** and **AI/Data Science enthusiast** from Cameroon 🇨🇲.  
+I enjoy building real-world projects and improving my skills in software engineering and machine learning.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Full Stack Development & AI
+- 💡 Interested in: Artificial Intelligence, Web Development, Data Science
+- 🎯 Goal: Become a professional AI Engineer and Full Stack Developer
+- ⚡ I like turning ideas into real applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- HTML, CSS, JavaScript
+- React (learning)
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- Python
+
+### 🧠 AI / Data Science
+- Python basics
+- Machine Learning fundamentals
+- NumPy / Pandas (learning)
+
+### 🗄️ Database
+- MySQL
+- MongoDB (learning)
+
+### 🔧 Tools
+- Git & GitHub
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+- 📌 Task Manager App — CRUD application with backend logic
+- 📌 Portfolio Website — Personal website (in progress)
+- 📌 AI Mini Projects — Machine learning experiments (beginner level)
+
+---
+
+## 🎯 Current Goals (2026)
+- Build 5+ strong full stack projects
+- Master JavaScript + Python ecosystem
+- Learn advanced Machine Learning
+- Get internship or freelance opportunities
+
+---
+
+## 📫 Contact Me
+
+- Email: ivanlemani230@gmail.com    
+- GitHub: https://github.com/ivanlemanidev
+
+---
+
+## ⚡ Fun Fact
+I love building projects that solve real problems, even small ones 🚀
